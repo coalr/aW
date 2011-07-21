@@ -1,6 +1,8 @@
 <?php
 echo "hello world";
 
-echo "some here comes the crazy ness";
+echo "some the master added something here crazy";
+
+echo "The master";
 
 ?>
